@@ -2,6 +2,8 @@
 ![](images/ChrisProfile2.PNG)
 ![](images/testvideo.mp4)
 
+<video src='https://tella.video/chriss-video-6-a0pt' width=180/>
+
 [![Alternate Text](images/ChrisProfile2.PNG)](https://tella.video/chriss-video-6-a0pt)
 
 
