@@ -2,7 +2,7 @@
 ![](images/ChrisProfile2.PNG)
 ![](images/testvideo.mp4)
 
-
+https://youtu.be/eV2LMxEcY60
 
 I am name is Christopher Enam Franklin. I go by Chris.
 Final Submission for my Natural Language Processing Project I completed in November 2021.I am currently reviewing it again to keep my skills in NLP sharp
@@ -14,4 +14,7 @@ Contact info.
 
 https://www.linkedin.com/in/christopherefranklin/
 
-<img width="282" alt="ChrisProfile" src="https://user-images.githubusercontent.com/18309288/200977276-2a0ba5ea-cb00-41fc-b8b9-4602dfd9ff91.PNG">
+
+
+
+
