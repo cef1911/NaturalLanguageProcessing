@@ -2,7 +2,7 @@
 ![](images/ChrisProfile2.PNG)
 ![](images/testvideo.mp4)
 
-[![Alternate Text](images/ChrisProfile2.PNG)]({https://tella.video/chriss-video-6-a0pt} "Test")
+[![Alternate Text](images/ChrisProfile2.PNG)](https://tella.video/chriss-video-6-a0pt)
 
 
 I am name is Christopher Enam Franklin. I go by Chris.
