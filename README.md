@@ -13,4 +13,5 @@ https://colab.research.google.com/drive/1TMVq79-vuHXMIgojPsNTrd22hPIgXAPP
 Contact info.
 
 https://www.linkedin.com/in/christopherefranklin/
-![]()
+
+<img width="282" alt="ChrisProfile" src="https://user-images.githubusercontent.com/18309288/200977276-2a0ba5ea-cb00-41fc-b8b9-4602dfd9ff91.PNG">
